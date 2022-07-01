@@ -1,0 +1,19 @@
+Variables:
+Una variable puede ser de varios tipos numero, letras, cuando declaras una variable a esta le asignas un valor
+por ejemplo a = 2 a es la variable y a es su valor.
+
+String 
+Un string es un tipo de variable es una cadena de caracteres que puede contener tanto numeros
+y letas un string se define usando comillas al inicio y al final.
+
+Funciones
+Una funcion es un pedazo de codigo, y su principal funcion es la reutilizacion de codigo
+Para declaras una funcion se utiliza nombre, puede recibir parametros y puede retornar alguna
+expresion.
+
+Declaraciones if
+Una declaracion if es una condicion. Si se cumple la condicion de ejecuta una determinada accion.
+
+Valor booleanos
+El valor es como una bandera o switch solo tiene dos valores verdadero o falso.
+
