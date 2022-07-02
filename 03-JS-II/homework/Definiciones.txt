@@ -1,0 +1,16 @@
+Ciclo for
+Un ciclo for es la manera de repetir una accion determinada vece, sin la necediad de hacerla de una por una. por ejemplo se quiere imrpimir los numeros
+del 1 al 100. el lugar de imprimir los numeros de uno por uno usamos el ciclo for.
+
+
+&& (AND)
+
+para que sea verdadero los dos campos tienen que ser verdaderos
+
+|| (OR)
+Para que sea verdadero solo se necesita un campo verdade.
+
+!(negacion)
+La negacion cambia de valor la expresion  si el verdadero el resultado sera falso.
+
+
